@@ -1,0 +1,26 @@
+{
+  "client": {
+    "token": "MTM2MzU4MDAxMzAwNTI0NjY0NQ.GAmJ6z.uoLipflZL8BuczQX3OAUHM_FVoW7uuNN6UaVKw"
+  },
+  "embeds_color": {
+    "embed_primary": "#ff0000",
+    "embed_invisible": "#02012e",
+    "embed_success": "#02012e",
+    "embed_error": "#02012e"
+  },
+  "ticket": {
+    "category_id": "categoria tickets",
+    "category_call_id": "categoria tickets",
+    "support_role": "cargo suporte id",
+    "channel_logs": "canal logs tickets id",
+    "thumbnail": "https://link.com",
+    "credits": "Nome do servidor, ou creditos"
+  },
+  "sales": {
+    "pix": "seu pix",
+    "qrcode": "https://link.com",
+    "name": "nome do seu pix"
+  },
+  "token": "MTM2MzU4MDAxMzAwNTI0NjY0NQ.GAmJ6z.uoLipflZL8BuczQX3OAUHM_FVoW7uuNN6UaVKw",
+  "prefix": "."
+}
